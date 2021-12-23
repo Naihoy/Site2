@@ -1,5 +1,8 @@
 
-body{background-color: #252a34;}
+body{background-color: #252a34;
+    margin-left: -75px;
+    margin-top: -25px;
+}
 h1{color: #00fffb}
 h2{color: #FF2E63}
 hr{color: #EAEAEA;
@@ -8,7 +11,7 @@ hr{color: #EAEAEA;
             border-width: 13px;
             width: 15%;}
 p{color: #EAEAEA;}
-.box1 {background-color: #29303d;
+div {background-color: #29303d;
 border-style:dotted;
 color: #FF2E63;
 }
